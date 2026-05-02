@@ -1,1 +1,2 @@
 # min
+l am studying
